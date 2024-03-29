@@ -1,4 +1,4 @@
-/*write a jav program to display your name*/
+/*write a java program to display your name*/
 import java.lang.*;
 class Robo
 {
